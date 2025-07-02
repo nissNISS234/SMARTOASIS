@@ -2793,18 +2793,4 @@
         });
     </script>
 </body>
-</html> align-items: center; padding: 0.75rem 0; border-bottom: 1px solid #f1f5f9;">
-                                        <span>Notifications push</span>
-                                        <label class="toggle-switch">
-                                            <input type="checkbox" checked>
-                                            <span class="toggle-slider"></span>
-                                        </label>
-                                    </div>
-                                    <div style="display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 0; border-bottom: 1px solid #f1f5f9;">
-                                        <span>Alertes email</span>
-                                        <label class="toggle-switch">
-                                            <input type="checkbox" checked>
-                                            <span class="toggle-slider"></span>
-                                        </label>
-                                    </div>
-                                    <div style="display: flex; justify-content: space-between;
+</html> 
